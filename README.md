@@ -7,7 +7,7 @@ Ethereum transaction library in PHP.
 # Install
 
 ```
-composer require web3p/ethereum-tx
+composer require mrinte/ethereum-tx
 ```
 
 # Usage
